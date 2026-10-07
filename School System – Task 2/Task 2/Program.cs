@@ -30,12 +30,12 @@ namespace Task_2
             Console.WriteLine("Average " + stdAverage);
             Console.WriteLine("Gender " + stdGender);
 
-            Console.WriteLine("===== Name Information =====\n");
+            Console.WriteLine("\n===== Name Information =====\n");
             Console.WriteLine("Origin Name: " + stdName + "\n");
             Console.WriteLine("Uppercase:" + stdName.ToUpper());
             Console.WriteLine("Lowercase:" + stdName.ToLower());
             Console.WriteLine("First Character:" + stdName[0]);
-            Console.WriteLine("Simple Student Calculation\n");
+            Console.WriteLine("\nSimple Student Calculation\n");
             Console.WriteLine("Please enter your Avarge:");
             stdAverage= Convert.ToDouble(Console.ReadLine());
             Console.WriteLine("Original Average:"+ stdAverage);
@@ -43,9 +43,8 @@ namespace Task_2
             double newAvg = Bouns + stdAverage;
             Console.WriteLine("Bonus Marks:" + Bouns);
             Console.WriteLine("New Average: " + newAvg);
-            Console.WriteLine(" Student Status\n");
+            Console.WriteLine(" \nStudent Status\n");
             Console.WriteLine("New Average" + newAvg);
-            Console.WriteLine("\n");
             if (newAvg >= 50)
             {
                 Console.WriteLine("The Result: Passed");
