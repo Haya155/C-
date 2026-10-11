@@ -44,7 +44,7 @@ namespace Task_2
             Console.WriteLine("Bonus Marks:" + Bouns);
             Console.WriteLine("New Average: " + newAvg);
             Console.WriteLine(" \nStudent Status\n");
-            Console.WriteLine("New Average" + newAvg);
+          Console.WriteLine("New Average:" + newAvg);
             if (newAvg >= 50)
             {
                 Console.WriteLine("The Result: Passed");
