@@ -47,7 +47,7 @@ namespace task3
 
         static void student()
         {
-            string[] stdarray = { "Ali", "Haya", "Ammer", "Mohammed", "Yousef" };
+            string[] stdarray = { "Ali", "Haya", "Ammar", "Mohammed", "Yousef" };
             Console.WriteLine("\n--- Student List ---");
             for (int i = 0; i < stdarray.Length; i++)
             {
