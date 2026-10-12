@@ -1,0 +1,17 @@
+1-What is class 
+A class is a blueprint or template used to define the data and behavior of objects.
+
+2-What is object
+ object is an instance of a class.
+
+3-Difference between class && object
+A class is a blueprint that defines the structure and behavior, while an object is an instance created from that class.
+
+4-Mention the OOP Principles 
+1. Encapsulation
+2. Inheritance
+3. Polymorphism
+4. Abstraction
+
+5-What is constructor 
+A constructor is a special member of a class that is called when an object is created.

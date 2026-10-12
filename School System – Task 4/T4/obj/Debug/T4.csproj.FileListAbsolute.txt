@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\C-\School System – Task 4\T4\bin\Debug\T4.exe.config
+C:\Users\user\Desktop\C-\School System – Task 4\T4\bin\Debug\T4.exe
+C:\Users\user\Desktop\C-\School System – Task 4\T4\bin\Debug\T4.pdb
+C:\Users\user\Desktop\C-\School System – Task 4\T4\obj\Debug\T4.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C-\School System – Task 4\T4\obj\Debug\T4.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C-\School System – Task 4\T4\obj\Debug\T4.exe
+C:\Users\user\Desktop\C-\School System – Task 4\T4\obj\Debug\T4.pdb
