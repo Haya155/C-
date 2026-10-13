@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\C-\Task5\T5\bin\Debug\T5.exe.config
+C:\Users\user\Desktop\C-\Task5\T5\bin\Debug\T5.exe
+C:\Users\user\Desktop\C-\Task5\T5\bin\Debug\T5.pdb
+C:\Users\user\Desktop\C-\Task5\T5\obj\Debug\T5.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C-\Task5\T5\obj\Debug\T5.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C-\Task5\T5\obj\Debug\T5.exe
+C:\Users\user\Desktop\C-\Task5\T5\obj\Debug\T5.pdb
