@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\C-\AdventureGame\T6\bin\Debug\T6.exe.config
+C:\Users\user\Desktop\C-\AdventureGame\T6\bin\Debug\T6.exe
+C:\Users\user\Desktop\C-\AdventureGame\T6\bin\Debug\T6.pdb
+C:\Users\user\Desktop\C-\AdventureGame\T6\obj\Debug\T6.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C-\AdventureGame\T6\obj\Debug\T6.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C-\AdventureGame\T6\obj\Debug\T6.exe
+C:\Users\user\Desktop\C-\AdventureGame\T6\obj\Debug\T6.pdb

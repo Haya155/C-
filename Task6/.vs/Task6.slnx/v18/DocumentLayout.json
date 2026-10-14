@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\C-\\Task6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\C-\\Task6\\ConsoleApp1\\Wizard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp1\\Wizard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\C-\\Task6\\ConsoleApp1\\GameCharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp1\\GameCharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\C-\\Task6\\ConsoleApp1\\Warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp1\\Warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameCharacter.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C-\\Task6\\ConsoleApp1\\GameCharacter.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\GameCharacter.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C-\\Task6\\ConsoleApp1\\GameCharacter.cs",
+              "RelativeToolTip": "ConsoleApp1\\GameCharacter.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAkwCUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T16:41:40.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Wizard.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C-\\Task6\\ConsoleApp1\\Wizard.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Wizard.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C-\\Task6\\ConsoleApp1\\Wizard.cs",
+              "RelativeToolTip": "ConsoleApp1\\Wizard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T16:41:19.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Warrior.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C-\\Task6\\ConsoleApp1\\Warrior.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Warrior.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C-\\Task6\\ConsoleApp1\\Warrior.cs*",
+              "RelativeToolTip": "ConsoleApp1\\Warrior.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T16:41:16.298Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

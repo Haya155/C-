@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\C-\\AdventureGame\\T6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75EF777A-4387-4306-B9E7-F5AF8D007A49}|T6.csproj|c:\\users\\user\\desktop\\c-\\adventuregame\\t6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75EF777A-4387-4306-B9E7-F5AF8D007A49}|T6.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75EF777A-4387-4306-B9E7-F5AF8D007A49}|T6.csproj|c:\\users\\user\\desktop\\c-\\adventuregame\\t6\\healthpotion .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75EF777A-4387-4306-B9E7-F5AF8D007A49}|T6.csproj|solutionrelative:healthpotion .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75EF777A-4387-4306-B9E7-F5AF8D007A49}|T6.csproj|c:\\users\\user\\desktop\\c-\\adventuregame\\t6\\wizard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75EF777A-4387-4306-B9E7-F5AF8D007A49}|T6.csproj|solutionrelative:wizard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75EF777A-4387-4306-B9E7-F5AF8D007A49}|T6.csproj|c:\\users\\user\\desktop\\c-\\adventuregame\\t6\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75EF777A-4387-4306-B9E7-F5AF8D007A49}|T6.csproj|solutionrelative:warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75EF777A-4387-4306-B9E7-F5AF8D007A49}|T6.csproj|c:\\users\\user\\desktop\\c-\\adventuregame\\t6\\gamecharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75EF777A-4387-4306-B9E7-F5AF8D007A49}|T6.csproj|solutionrelative:gamecharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75EF777A-4387-4306-B9E7-F5AF8D007A49}|T6.csproj|c:\\users\\user\\desktop\\c-\\adventuregame\\t6\\icollectible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75EF777A-4387-4306-B9E7-F5AF8D007A49}|T6.csproj|solutionrelative:icollectible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Warrior.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C-\\AdventureGame\\T6\\Warrior.cs",
+              "RelativeDocumentMoniker": "Warrior.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C-\\AdventureGame\\T6\\Warrior.cs",
+              "RelativeToolTip": "Warrior.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T16:45:41.848Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HealthPotion .cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C-\\AdventureGame\\T6\\HealthPotion .cs",
+              "RelativeDocumentMoniker": "HealthPotion .cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C-\\AdventureGame\\T6\\HealthPotion .cs",
+              "RelativeToolTip": "HealthPotion .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T17:13:01.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICollectible.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C-\\AdventureGame\\T6\\ICollectible.cs",
+              "RelativeDocumentMoniker": "ICollectible.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C-\\AdventureGame\\T6\\ICollectible.cs",
+              "RelativeToolTip": "ICollectible.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T17:11:13.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Wizard.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C-\\AdventureGame\\T6\\Wizard.cs",
+              "RelativeDocumentMoniker": "Wizard.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C-\\AdventureGame\\T6\\Wizard.cs",
+              "RelativeToolTip": "Wizard.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T16:46:06.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameCharacter.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C-\\AdventureGame\\T6\\GameCharacter.cs",
+              "RelativeDocumentMoniker": "GameCharacter.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C-\\AdventureGame\\T6\\GameCharacter.cs",
+              "RelativeToolTip": "GameCharacter.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAwwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T16:44:34.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\C-\\AdventureGame\\T6\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\C-\\AdventureGame\\T6\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T16:43:54.535Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
