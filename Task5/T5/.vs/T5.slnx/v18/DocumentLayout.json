@@ -7,19 +7,19 @@
       "RelativeMoniker": "D:0:0:{0B18A408-F735-4111-A333-FF2E5F7C1B13}|T5.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B18A408-F735-4111-A333-FF2E5F7C1B13}|T5.csproj|c:\\users\\user\\desktop\\c-\\task5\\t5\\schoolreport .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B18A408-F735-4111-A333-FF2E5F7C1B13}|T5.csproj|solutionrelative:schoolreport .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B18A408-F735-4111-A333-FF2E5F7C1B13}|T5.csproj|c:\\users\\user\\desktop\\c-\\task5\\t5\\teacher .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0B18A408-F735-4111-A333-FF2E5F7C1B13}|T5.csproj|solutionrelative:teacher .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B18A408-F735-4111-A333-FF2E5F7C1B13}|T5.csproj|c:\\users\\user\\desktop\\c-\\task5\\t5\\student .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0B18A408-F735-4111-A333-FF2E5F7C1B13}|T5.csproj|C:\\Users\\user\\Desktop\\C-\\Task5\\T5\\student .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B18A408-F735-4111-A333-FF2E5F7C1B13}|T5.csproj|solutionrelative:student .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0B18A408-F735-4111-A333-FF2E5F7C1B13}|T5.csproj|c:\\users\\user\\desktop\\c-\\task5\\t5\\person .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0B18A408-F735-4111-A333-FF2E5F7C1B13}|T5.csproj|C:\\Users\\user\\Desktop\\C-\\Task5\\T5\\schoolreport .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B18A408-F735-4111-A333-FF2E5F7C1B13}|T5.csproj|solutionrelative:schoolreport .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B18A408-F735-4111-A333-FF2E5F7C1B13}|T5.csproj|C:\\Users\\user\\Desktop\\C-\\Task5\\T5\\teacher .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B18A408-F735-4111-A333-FF2E5F7C1B13}|T5.csproj|solutionrelative:teacher .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B18A408-F735-4111-A333-FF2E5F7C1B13}|T5.csproj|C:\\Users\\user\\Desktop\\C-\\Task5\\T5\\person .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0B18A408-F735-4111-A333-FF2E5F7C1B13}|T5.csproj|solutionrelative:person .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,7 +34,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "SchoolReport .cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\C-\\Task5\\T5\\SchoolReport .cs",
               "RelativeDocumentMoniker": "SchoolReport .cs",
@@ -47,13 +47,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Teacher .cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\C-\\Task5\\T5\\Teacher .cs",
               "RelativeDocumentMoniker": "Teacher .cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\C-\\Task5\\T5\\Teacher .cs",
               "RelativeToolTip": "Teacher .cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBUAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-13T12:09:17.925Z",
               "EditorCaption": ""
@@ -66,20 +66,20 @@
               "RelativeDocumentMoniker": "Person .cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\C-\\Task5\\T5\\Person .cs",
               "RelativeToolTip": "Person .cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAA7wDEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-13T11:39:01.376Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Student .cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\C-\\Task5\\T5\\Student .cs",
               "RelativeDocumentMoniker": "Student .cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\C-\\Task5\\T5\\Student .cs",
               "RelativeToolTip": "Student .cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-13T11:49:44.47Z",
               "EditorCaption": ""
@@ -92,7 +92,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\C-\\Task5\\T5\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAkwDMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwDQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-13T11:38:37.334Z",
               "EditorCaption": ""

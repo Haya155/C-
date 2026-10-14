@@ -46,8 +46,7 @@ namespace T5
 
         public void DisplayInfo()
         {
-            Console.WriteLine("The name is: " + Name +
-                              "\nThe age is: " + Age);
+            Console.WriteLine("The name is: " + Name + "\nThe age is: " + Age);
         }
     }
 }

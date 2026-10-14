@@ -10,15 +10,12 @@ namespace T5
     {
         static void Main(string[] args)
         {
-            // Create two Student objects
             Student student1 = new Student("Ahmad", 20, 90, "S101");
             Student student2 = new Student("Sara", 19, 95, "S102");
 
-            // Set the school name
             student1.SetSchoolName("Yarmouk School");
             student2.SetSchoolName("Yarmouk School");
 
-            // Display student information
             student1.DisplayInfo();
             student1.DisplaySchoolName();
 
@@ -29,7 +26,6 @@ namespace T5
 
             Console.WriteLine();
 
-            // Create a Teacher object
             Teacher teacher = new Teacher("Omar", 35, "C#");
 
             teacher.SetSchoolName("Yarmouk School");
@@ -44,7 +40,7 @@ namespace T5
 
             Console.WriteLine();
 
-            // Create a SchoolReport object
+      
             SchoolReport report =
                 new SchoolReport("Annual School Report");
 

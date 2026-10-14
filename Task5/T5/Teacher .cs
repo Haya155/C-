@@ -19,9 +19,7 @@ namespace T5
 
         public void DisplayTeacherInfo()
         {
-            Console.WriteLine("The name is: " + Name +
-                              "\nThe age is: " + Age +
-                              "\nThe subject is: " + Subject);
+            Console.WriteLine("The name is: " + Name +   "\nThe age is: " + Age + "\nThe subject is: " + Subject);
         }
     }
 }
