@@ -29,7 +29,7 @@ namespace ConsoleApp1
             else if (health > 100) Health = 100;
             else Health = health;
 
-            // طباعة رسالة دخول الشخصية للعبة مطابقة للـ Sample Output
+    
             if (this is Warrior)
                 Console.WriteLine($"Warrior {_name} enters the game!");
             else if (this is Wizard)

@@ -1,9 +1,7 @@
-﻿using ConsoleApp1;
+﻿
+using ConsoleApp1;
 using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace T6
 {
@@ -15,36 +13,40 @@ namespace T6
             Console.WriteLine();
 
             Warrior w = new Warrior("Alex", 80);
-            w.UseSpecialAbility();
-            w.TakeDamage(10);
-
-            Console.WriteLine();
-            w.Heal();
-
-            Console.WriteLine();
-            w.Heal(15);
-
-            Console.WriteLine();
-
-
             Wizard wi = new Wizard("Luna", 70);
-            wi.UseSpecialAbility();
+
+            List<GameCharacter> chars = new List<GameCharacter>();
+            chars.Add(w);
+            chars.Add(wi);
+
+            foreach (GameCharacter chara in chars)
+            {
+                Console.WriteLine(chara.Name );
+                chara.UseSpecialAbility();
+            }
+
+            Console.WriteLine();
+
+            w.TakeDamage(10);
             wi.TakeDamage(10);
 
-            Console.WriteLine();
+            Console.WriteLine("\n=== Character Health ===");
+            Console.WriteLine(w.Name + ": " + w.CurrentHealth);
+            Console.WriteLine(wi.Name + ": " + wi.CurrentHealth);
 
+            Console.WriteLine("\n=== Healing ===");
+            w.Heal();
+            w.Heal(15);
 
             HealthPotion p = new HealthPotion("Health Potion");
+            Console.WriteLine();
             p.Collect();
 
             Console.WriteLine();
             p.Use(wi, "15");
 
             Console.WriteLine();
-            p.Use(wi, "abc"); 
-
-
-
+            p.Use(wi, "abc");
         }
     }
 }
